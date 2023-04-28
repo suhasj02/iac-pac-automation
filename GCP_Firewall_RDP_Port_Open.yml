@@ -12,4 +12,4 @@ code:
         - "google_compute_firewall"
         attribute: "deny.ports"
         operator: "equals"
-        value: "3389"
+        value: "22"
